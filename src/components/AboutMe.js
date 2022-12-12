@@ -16,7 +16,7 @@ const AboutMe = ()=> {
 				About Me
 				</Header>
 				<p style={{ fontSize: '1.33em' }}>
-				I am a Software Engineer coming from a background of Education, who will bring exceptional collaboration skills, outside-the-box thinking, and an enthusiasm to find solutions to any team I join. 
+				I am a Software Engineer that has a history in high tempo medical field expeirence. I have the capability to adapy in any enviroment and fullfill any poisition i am needed in with the best of my ability.
 				</p>
 				
 				

@@ -8,10 +8,10 @@ const PortfolioHeader = () => {
       <Container fluid textAlign="center" className="header">
         <Header
           as="h1"
-          content="Sarah Barbee"
+          content="Braeden Obholz"
           style={{ fontSize: "4em", marginTop: "1em" }}
         >
-          Sarah Barbee
+          Braeden Obholz
           <Header.Subheader>
             <ReactTypingEffect
               text={[
@@ -28,7 +28,7 @@ const PortfolioHeader = () => {
               style={{ marginBottom: ".5em", marginTop: ".5em" }}
             >
               <a
-                href="https://github.com/skbarbee"
+                href="https://github.com/smoothbrady"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Github"
@@ -41,7 +41,7 @@ const PortfolioHeader = () => {
                 />
               </a>
               <a
-                href="https://www.linkedin.com/in/sarah-barbee/"
+                href="https://www.linkedin.com/in/braeden-obholz/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn"
@@ -54,7 +54,7 @@ const PortfolioHeader = () => {
                 />
               </a>
               <a
-                href={`${process.env.PUBLIC_URL}/Resume.pdf`}
+                href={`${process.env.PUBLIC_URL}/BraedenObholzResume.pdf`}
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Resume"

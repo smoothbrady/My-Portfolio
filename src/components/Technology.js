@@ -43,7 +43,6 @@ const Technology = ()=> {
 		
 			<Icon className='devicon-bootstrap-plain' size ='huge'/>
 		
-			<Icon className='devicon-canva-plain' size ='huge'/>
 	
 			</Container>
 		

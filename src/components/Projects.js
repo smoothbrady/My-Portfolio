@@ -7,18 +7,18 @@ const Projects = ()=> {
 
 	const projects = [
 		{
-			header: 'BamPow',
-			description:"Fullstack Application Where Users Can Track Their Favorite Author, Illustrators, Publishers, And Characters For Comics",
-			meta:'Django, Python, React.js, Node.js, Semantic-UI, ',
+			header: 'WhatsApp',
+			description:"React application for Users that want to create a login and communicate over text using messages, pictures, and videos.",
+			meta:'React Native and CSS',
 			image:"BamPow.png",
 			href: 'https://github.com/skbarbee/django-comics',
 			signIn: ''
 			
 		},
 		{
-			header: 'PetMatch App',
-			description:"A full stack application. Users must create a log in so they can create a pet profile that they can update and delete. They can also see other pets on the app and message users to make play-dates.",
-			meta:'MongoDB, Express, React.js, Node.js, and Bootstrap-React, Sass',
+			header: 'Sportz App',
+			description:"A fullstack application that allows useer to stay up to date with their favorite team or any team from NFL, NBA, NHL, MLB, NCAAF, and NCAAB. Within this app the user will recieve live scores, matchups, and odds",
+			meta:'Express, MongoDB, Node.js, Axios, Mongoose, React',
 			image:"petMatch.png",
 			href: 'https://petplaydate.netlify.app/',
 			signIn: 'Username: sb@sb.com Password: sb'
