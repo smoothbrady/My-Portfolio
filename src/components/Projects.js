@@ -19,9 +19,9 @@ const Projects = ()=> {
 			header: 'Sportz App',
 			description:"A fullstack application that allows useer to stay up to date with their favorite team or any team from NFL, NBA, NHL, MLB, NCAAF, and NCAAB. Within this app the user will recieve live scores, matchups, and odds",
 			meta:'Express, MongoDB, Node.js, Axios, Mongoose, React',
-			image:"petMatch.png",
+			image:"sportz.png",
 			href: 'https://petplaydate.netlify.app/',
-			signIn: 'Username: sb@sb.com Password: sb'
+			signIn: 'Username: b@b.com Password: b'
 			
 		},
 

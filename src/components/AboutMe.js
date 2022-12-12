@@ -22,7 +22,7 @@ const AboutMe = ()=> {
 				
 			</Grid.Column>
 			<Grid.Column floated='right' width={6}>
-				<Image bordered rounded size='large' src={`${process.env.PUBLIC_URL}/images/profile.svg`}/>
+				<Image bordered rounded size='large' src={`${process.env.PUBLIC_URL}/images/profile.jpeg`}/>
 			</Grid.Column>
 			</Grid.Row>
 			
