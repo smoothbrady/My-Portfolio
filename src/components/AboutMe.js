@@ -16,10 +16,10 @@ const AboutMe = ()=> {
 				About Me
 				</Header>
 				<p style={{ fontSize: '1.33em' }}>
-				I am a Software Engineer that has a history in the medical field. I have the capability to adapt in any enviroment, and fullfill any poisition I am needed in with the best of my ability.
+				I am a Software Engineer that has a history in the medical field. I have the capability to adapt in any environment, and fullfill any position I am needed in with the best of my ability.
 				<br></br>
 				<br></br>
-				Having a history in the medical field has given me the resources to work quick and efficiently under in circumstances with indivualds around me. Giving me the access to break down problems, figure out the problem, and create the best solution moving forward.
+				Having a history in the medical field has given me the resources to work quick and efficiently under in circumstances with individuals around me. Giving me the access to break down problems, figure out the problem, and create the best solution moving forward.
 				</p>
 				
 				
