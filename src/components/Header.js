@@ -49,7 +49,7 @@ const PortfolioHeader = () => {
                 <Popup
                   content="LinkedIn"
                   trigger={
-                    <Icon className="devicon-linkedin-plain" color="violet" />
+                    <Icon className="devicon-linkedin-plain" color="blue" />
                   }
                 />
               </a>
@@ -61,7 +61,7 @@ const PortfolioHeader = () => {
               >
                 <Popup
                   content="My Resume"
-                  trigger={<Icon name="file alternate" color="teal" />}
+                  trigger={<Icon name="file alternate" color="red" />}
                 />
               </a>
             </IconGroup>

@@ -12,9 +12,9 @@ const Technology = ()=> {
 		<div>
 	
 		
-		<Segment fluid style={{ padding: '3em 0em' }} vertical color='teal'>
+		<Segment fluid style={{ padding: '3em 0em' }} vertical color='brown'>
 	
-		<Header size='huge' textAlign='center' color='teal'>Skills</Header>
+		<Header size='huge' textAlign='center' color='brown'>Skills</Header>
 		<Container fluid textAlign='center'>
 			
 			<Icon className='devicon-express-original' size ='huge'/>
