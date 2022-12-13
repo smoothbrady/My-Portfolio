@@ -1,6 +1,6 @@
 
 import React from 'react'
-import { Grid, Icon, Segment, Header, Container, IconGroup } from 'semantic-ui-react'
+import { Icon, Segment, Header, Container } from 'semantic-ui-react'
 
 
 
