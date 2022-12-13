@@ -8,7 +8,7 @@ const Projects = ()=> {
 	const projects = [
 		{
 			header: 'LetsTalk',
-			description:"A Fully functioning React app. Alllowing users to communicate via text, calls, and voice notes. User will be able to create an account and be able to find friends! As well as having th capability to send texts, pictures, and videos.",
+			description:"A Fully functioning React app. Alllowing users to communicate via text, calls, and voice notes. User will be able to create an account and be able to find friends! As well as having the capability to send texts, pictures, and videos.",
 			meta:'React Native and CSS',
 			image:"LetsTalk.jpeg",
 			href: '',
