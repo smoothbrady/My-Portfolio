@@ -6,4 +6,3 @@ My code for my portfolio
 - Semantic-UI
 
 ### Deployed Site 
-https://sbarbee.netlify.app/
